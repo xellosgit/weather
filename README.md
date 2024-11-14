@@ -1,6 +1,7 @@
 ## Weather App 🌦️
 
 This project is a fully responsive weather application built using Vue.js and Vite, which utilizes the **OpenWeatherMap API** to provide accurate and up-to-date weather information. The app does not rely on any CSS frameworks or UI libraries to ensure a lightweight experience.
+![image](https://github.com/user-attachments/assets/709385e3-24f7-4cb0-8ce1-3561a3c7cb01)
 
 ---
 
