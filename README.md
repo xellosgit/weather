@@ -9,7 +9,7 @@ This project is a fully responsive weather application built using Vue.js and Vi
 1. **City Autocomplete Search**:
 
    - An input field with autocomplete functionality to search cities.
-   - Fetches data using either `fetch` or `axios`.
+   - Fetches data using `axios`.
 
 2. **Weather Cards for Current Day**:
 
