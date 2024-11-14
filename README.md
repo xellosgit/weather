@@ -59,8 +59,8 @@ This project is a fully responsive weather application built using Vue.js and Vi
     - Supports both English (`en`) and Ukrainian (`uk`) languages.
     - Weather data and interface labels change based on the selected language.
 
-11. **Day/Night Theme Toggle** 🌗:
-    - Users can switch between a light ("day") and dark ("night") mode for better visibility based on their preference.
+11. **Day/Night weather switch** 🌗:
+    - Users have the option to switch the weather display to either day or night mode.
 
 ---
 
