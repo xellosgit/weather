@@ -68,7 +68,7 @@ This project is a fully responsive weather application built using Vue.js and Vi
 ## Additional Functionality ✨
 
 - **Error Handling**: Displays user-friendly messages in case of API errors or network issues.
-- **LocalStorage Management**: Ensures data persistence for user preferences (e.g., favorite cities, theme settings).
+- **LocalStorage Management**: Ensures data persistence for user preferences (e.g., favorite cities, language settings).
 - **Accessibility**: Focus on keyboard navigation and screen reader compatibility.
 
 ---
