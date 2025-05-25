@@ -83,3 +83,4 @@ This project is a fully responsive weather application built using Vue.js and Vi
 - **OpenWeatherMap API** (for weather data)
 
 ---
+This project is tested with BrowserStack.
